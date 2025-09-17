@@ -16,6 +16,14 @@ Un plugin WordPress complet pour intégrer Twitch sur votre site avec des shortc
 2. Activez le plugin dans l'administration WordPress
 3. Allez dans **Réglages > Intégration Twitch** pour configurer vos identifiants API
 
+### Pour les utilisateurs
+
+1.  Téléchargez la dernière version du plugin sur la page des "Releases" : https://github.com/eberess/wordpress/releases.
+2.  Dans votre tableau de bord WordPress, allez dans **Extensions > Ajouter**.
+3.  Cliquez sur **Téléverser une extension**, puis choisissez le fichier .zip téléchargé.
+4.  Activez le plugin.
+
+
 ## Configuration
 
 ### Identifiants API Twitch
