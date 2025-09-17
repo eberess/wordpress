@@ -22,7 +22,7 @@ Ce dépôt est un aperçu de mon expertise en développement WordPress, de la cr
     * Affichage des données de chaînes et de streams en temps réel.
     * Personnalisation de l'affichage via des paramètres du plugin.
 * **Compétences en jeu :** `PHP`, `JavaScript`, **`API REST`** et gestion de requêtes externes.
-* **Lien :**
+* **Lien :** https://github.com/eberess/wordpress/tree/main/twitch_integration
 
 ---
 
