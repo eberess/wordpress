@@ -30,7 +30,7 @@ Ce dépôt est un aperçu de mon expertise en développement WordPress, de la cr
 
 Pour un développement fluide, j'utilise des environnements conteneurisés. Chaque projet est conçu pour être facilement lancé avec Docker ou Podman.
 
-* Pour les configurations de déploiement et l'utilisation de **Docker** et **Podman**, vous pouvez consulter le dépôt suivant : .
+* Pour les configurations de déploiement et l'utilisation de **Docker** et **Podman**, vous pouvez consulter le dépôt suivant : https://github.com/eberess/container-labs/tree/main/wordpress
 
 ---
 
